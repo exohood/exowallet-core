@@ -1,0 +1,24 @@
+PODS:
+  - ChangellyAPI (1.0):
+    - CoinpaprikaAPI/Networking
+  - CoinpaprikaAPI/Networking (2.2)
+
+DEPENDENCIES:
+  - ChangellyAPI (from `../`)
+  - CoinpaprikaAPI/Networking
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CoinpaprikaAPI
+
+EXTERNAL SOURCES:
+  ChangellyAPI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChangellyAPI: f5f9c214de04f61f889062900eeb1a7c851f9172
+  CoinpaprikaAPI: 30093dd2ece7d8ecea8c0d8671f704e7a6095f0b
+
+PODFILE CHECKSUM: 588e893f2954e3b83fe481536d6d320a63ec5938
+
+COCOAPODS: 1.7.0.rc.1
