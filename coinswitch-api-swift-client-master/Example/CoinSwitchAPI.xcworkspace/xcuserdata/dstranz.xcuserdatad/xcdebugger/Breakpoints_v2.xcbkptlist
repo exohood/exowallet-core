@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CoinpaprikaAPI/CoinpaprikaAPI/Classes/Networking/Request.swift"
+            timestampString = "579523783.441331"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "findFailureReason(data:response:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coinpaprika.Request.(findFailureReason in _C0D94E1DD658F2954E64F4A914671D79)(data: Swift.Optional&lt;Foundation.Data&gt;, response: Swift.Optional&lt;__C.NSURLResponse&gt;) -&gt; Coinpaprika.ResponseError"
+                  moduleName = "Coinpaprika"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dstranz/iOS/CoinSwitchAPI/Example/Pods/CoinpaprikaAPI/CoinpaprikaAPI/Classes/Networking/Request.swift"
+                  timestampString = "579624871.8989969"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coinpaprika.Request.(findFailureReason in _C0D94E1DD658F2954E64F4A914671D79)(data: Swift.Optional&lt;Foundation.Data&gt;, response: Swift.Optional&lt;__C.NSURLResponse&gt;) -&gt; Coinpaprika.ResponseError"
+                  moduleName = "Coinpaprika"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dstranz/iOS/CoinSwitchAPI/Example/Pods/CoinpaprikaAPI/CoinpaprikaAPI/Classes/Networking/Request.swift"
+                  timestampString = "579624871.901562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coinpaprika.Request.(findFailureReason in _C0D94E1DD658F2954E64F4A914671D79)(data: Swift.Optional&lt;Foundation.Data&gt;, response: Swift.Optional&lt;__C.NSURLResponse&gt;) -&gt; Coinpaprika.ResponseError"
+                  moduleName = "Coinpaprika"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dstranz/iOS/CoinSwitchAPI/Example/Pods/CoinpaprikaAPI/CoinpaprikaAPI/Classes/Networking/Request.swift"
+                  timestampString = "579624871.904843"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "1011">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

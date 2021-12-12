@@ -1,0 +1,6 @@
+framework module Pods_CoinSwitchAPI_Tests {
+  umbrella header "Pods-CoinSwitchAPI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
