@@ -1,5 +1,14 @@
-/node_modules
-package-lock.json
-/.idea
-yarn.lock
-/coverage
+.DS_Store
+*~
+*.pyc
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+xcuserdata/
+
+## CocoaPods
+Pods/
+
+## Swift Package Manager
+.build/
