@@ -1,7 +1,7 @@
 {
   "name": "@exohood/api-nodejs-client",
   "version": "1.2.0",
-  "description": "This library provides convenient way to use exohood.com API in NodeJS",
+  "description": "This library provides convenient way to use Exohood Wallet API in NodeJS",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/exohood/exohood-wallet",
@@ -22,7 +22,7 @@
   "jest": {
     "verbose": true
   },
-  "author": "exohood.com",
+  "author": "Exohood",
   "devDependencies": {
     "documentation": "^8.1.2",
     "dotenv": "^6.0.0",
