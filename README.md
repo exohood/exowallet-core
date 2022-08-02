@@ -5,6 +5,8 @@
 
 Core Ethereum data structures and algorithms. This is part of the [Trust Ethereum Wallet for iOS](https://github.com/TrustWallet/trust-wallet-ios), but can be used standalone.
 
+![Title](bannertop.png)
+
 ## Contributing
 
 We intend for this project to be an educational resource: we are excited to
